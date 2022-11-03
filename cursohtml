@@ -66,35 +66,5 @@
             Acompanhamento da bolsa de ações B3 e da bolsa de metais de Londres, atendimento em língua inglesa diretamente com investidores da empresa.
             Produção dos relatórios fiscais trimestrais e anuais de caráter público, com foco nas conferências da diretoria da empresa para os investidores.</p>
                 </ul>
-<!-- Exemplos descritivos <3 
-
-                ------------------------------------------------
-                <ol> (Lista Ordenada)
-                    <li>Quadrado</li>
-                    <li>Bola</li>
-                    <li>Triangulo</li>
-                </ol>
-                ------------------------------------------------
-                <ul> (Lista não Ordenada)
-                    <li>Primeiro</li>
-                    <li>Segundo</li>
-                    <li>Terceiro</li>
-                </ul>
-
-                ------------------------------------------------
-                <dl> (Lista de Definição)
-                    <dt>Nome da lista de definição</dt>
-                    <dd>Lista que define com espaço ou como descrição, como esse exemplo</dd>
-                </dl>
-
-                ------------------------------------------------
-                HiperLink o <a> é de ancora, href é de hipertext referente (o link), e o target é a opção de abertura desse link (normalmente vai ser _blank).
-
-                <a href="add o hiperlink" target="_blank"></a>
-                ------------------------------------------------
-                Adicionar imagem
-                
-                <img src="Fotos/01.jpeg" width="300" height="300" alt="decritivo da imagem">
-        -->
             </body>
 </html>
